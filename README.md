@@ -12,4 +12,4 @@
 <a href="https://www.hackerrank.com/shivamg_05" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shivamg_05" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shivamg_05" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="shivamg_05" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_shivam_05._/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shivamg_05" height="30" width="40" /></a>  
-<a href="https://www.facebook.com/profile.php?id=100032332052822" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shivamg_05" height="30" width="40" /></a>  
+

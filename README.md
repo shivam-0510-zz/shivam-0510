@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **skg050210@gmail.com**
 
-- ⚡ Fun fact **Can't Say**
+- ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd. 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

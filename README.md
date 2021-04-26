@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Programming Skillss**
 
-- 🌱 I’m currently learning **C++ and DS & Algo**
+- 🌱 I’m currently learning **Java and DS & Algo**
 
 - 🤝 I’m looking for help with **DS & Algo**
 

@@ -1,28 +1,48 @@
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-0510&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-0510" /> </p>
-
-- 🔭 I’m currently working on **Programming Skills**
-
-- 🌱 I’m currently learning **Java and DS & Algo**
-
-- 🤝 I’m looking for help with **DS & Algo**
-
-- 📫 How to reach me **skg050210@gmail.com**
-
-- ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd. 🤓**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/shivamg_05/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shivamg_05" height="30" width="40" /></a>
+<h3 align="center">A Passionate Computer Science Student from India</h3>
+	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivam-0510&color=blueviolet&style=flat">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently learning **DS and Algo, Java, etc.**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-0510&show_icons=true&locale=en&layout=compact" alt="shivam-0510" /></p>
+- 👨‍💻 All of my projects are available at [github](https://github.com/shivam-0510?tab=repositories)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-0510&show_icons=true&locale=en" alt="shivam-0510" /></p>
+- 💬 Ask me about **Java**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-0510&" alt="shivam-0510" /></p>
+- 📫 How to reach me **skg050210@gmail.com**
+- ### 🛠 &nbsp;Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+<br>
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+<br>
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
+<br>
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
+<br/>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/shivam-0510">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivam-0510&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shivam-0510&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="www.linkedin.com/in/shivam-gupta-3628641bb/"><img src="https://img.shields.io/badge/-Shivam%20Gupta-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:skg050210@gmail.com"><img src="https://img.shields.io/badge/-skg050210%40gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/05_guptashivam"><img src="https://img.shields.io/badge/-Shivam%20Gupta-blue?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
+

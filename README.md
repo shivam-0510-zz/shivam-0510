@@ -45,7 +45,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivam-0510)
 <br>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivam-0510)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivam-0510&theme=algolia)  
 
 ### 🤝🏻 &nbsp;Connect with Me
 

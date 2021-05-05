@@ -44,8 +44,12 @@
 </a>
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivam-0510)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivam-0510&theme=algolia) 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=shivam-0510">	
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-0510&theme=algolia">	
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 

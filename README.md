@@ -18,7 +18,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
@@ -30,7 +30,7 @@
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 <br>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br>
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![IntelliJ Idea](https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -45,8 +45,7 @@
 </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivam-0510)
-<br>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivam-0510&theme=algolia)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivam-0510&theme=algolia) 
 
 ### 🤝🏻 &nbsp;Connect with Me
 

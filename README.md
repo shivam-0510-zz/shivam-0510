@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
-<h3 align="center">A Passionate Computer Science Student from India</h3>
+<img src = "https://media.giphy.com/media/A1KaX85rHy6kYJMk7M/giphy.gif" width="10000px">
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivam-0510&color=blueviolet&style=flat">

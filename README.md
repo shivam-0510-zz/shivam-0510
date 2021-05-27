@@ -36,18 +36,18 @@
 <br/>
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/shivam-0510">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivam-0510&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shivam-0510&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shivam-0510">	
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-0510&theme=algolia">	
+<br>
+<p align=center>
+  <div align=center>
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-0510&theme=react&border=61dafb&hide_border=true" alt="sg" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=shivam-0510&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-0510&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=shivam-0510&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me

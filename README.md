@@ -1,16 +1,5 @@
-<img src = "https://media.giphy.com/media/tCP0mFyjAQWbIR4WyJ/giphy.gif" width="10000px" align="center">
+<img src="https://github-hero-readme.vercel.app/api?username=shivam-0510&linkedin=shivam-gupta&twitter=05_guptashivam&description=Open Source | Web Developer | DSA" width="100%">
 	
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivam-0510&color=blueviolet&style=flat">
-</p>
-
-- 🌱 I’m currently learning **DS and Algo, Java, etc.**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/shivam-0510?tab=repositories)
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **skg050210@gmail.com**
  ### 🛠 &nbsp;Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -24,26 +13,12 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<br>
-<p align=center>
-  <div align=center>
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-0510&theme=react&border=61dafb&hide_border=true" alt="sg" />
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=shivam-0510&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-0510&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=shivam-0510&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+  <a target="_blank"href="www.linkedin.com/in/shivam-gupta-3628641bb"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/05_guptashivam"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:skg050210@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_shivam_05._/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p>
-<a href="https://www.linkedin.com/in/shivam-gupta-3628641bb/"><img src="https://img.shields.io/badge/-Shivam%20Gupta-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:skg050210@gmail.com"><img src="https://img.shields.io/badge/-skg050210%40gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/05_guptashivam"><img src="https://img.shields.io/badge/-Shivam%20Gupta-blue?style=flat&logo=Twitter&logoColor=white"/></a>
-</p>

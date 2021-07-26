@@ -26,7 +26,20 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-0510&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=355070&locale=en&layout=compact" alt="shivam" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-0510&theme=react&border=61dafb&hide_border=true" alt="umishra" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=shivam-0510&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-0510&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
+</p>
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">

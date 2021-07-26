@@ -38,7 +38,7 @@
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-0510&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=shivam-0510&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 </p>
 
 <h2 align="center">📫 Reach out to me on</h2>

@@ -1,5 +1,17 @@
 <img src="https://github-hero-readme.vercel.app/api?username=shivam-0510&linkedin=shivam-gupta&twitter=05_guptashivam&description=Open Source | Web Developer | DSA" width="100%">
-	
+
+- 🔭 I’m currently working on **Programming Skills**
+
+- 🌱 I’m currently learning **Web Dev & DSA**
+
+- 🥅 2021 Goals **Learn DSA**
+
+- 🤝 I’m looking for help with **DSA**
+
+- 💬 **MLH INIT 2022** Participant (Ranked 40/6500)
+
+- 😄 Pronouns **He/Him**
+
 <h2 align="center">🛠 &nbsp;Languages and Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
